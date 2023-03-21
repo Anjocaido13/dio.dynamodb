@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Evanescence"},
+                  "SongTitle": {"S": "Bring me to life"},
+                  "AlbumTitle": {"S": "Fallen"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Evanescence"},
+                  "SongTitle": {"S": "Tourniquet"},
+                  "AlbumTitle": {"S": "Fallen"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Evanescence"},
+                  "SongTitle": {"S": "Taking over me"},
+                  "AlbumTitle": {"S": "Fallen"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        }
+      ]
+}
